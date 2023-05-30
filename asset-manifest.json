@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Locofydemo/static/css/main.d8ae3763.css",
-    "main.js": "/Locofydemo/static/js/main.0c3d4594.js",
-    "static/js/787.dcb1adfb.chunk.js": "/Locofydemo/static/js/787.dcb1adfb.chunk.js",
+    "main.js": "/Locofydemo/static/js/main.292aaa77.js",
+    "static/js/787.8267bffa.chunk.js": "/Locofydemo/static/js/787.8267bffa.chunk.js",
     "static/media/search-container1@3x.png": "/Locofydemo/static/media/search-container1@3x.618f412ad8717bfa955a.png",
     "static/media/search-container@3x.png": "/Locofydemo/static/media/search-container@3x.5cda6d3560fb5290245b.png",
     "static/media/banner@3x.png": "/Locofydemo/static/media/banner@3x.1c9c0194872e379bc3ee.png",
@@ -10,11 +10,11 @@
     "static/media/subscribe-section@3x.png": "/Locofydemo/static/media/subscribe-section@3x.27e41d64ede53527ecce.png",
     "index.html": "/Locofydemo/index.html",
     "main.d8ae3763.css.map": "/Locofydemo/static/css/main.d8ae3763.css.map",
-    "main.0c3d4594.js.map": "/Locofydemo/static/js/main.0c3d4594.js.map",
-    "787.dcb1adfb.chunk.js.map": "/Locofydemo/static/js/787.dcb1adfb.chunk.js.map"
+    "main.292aaa77.js.map": "/Locofydemo/static/js/main.292aaa77.js.map",
+    "787.8267bffa.chunk.js.map": "/Locofydemo/static/js/787.8267bffa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8ae3763.css",
-    "static/js/main.0c3d4594.js"
+    "static/js/main.292aaa77.js"
   ]
 }
